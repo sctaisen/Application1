@@ -1,9 +1,12 @@
 import "./App.scss";
+import {ModuleA} from '@/modules/ModuleA'
+import {ModuleB} from '@/modules/ModuleB'
 
 function App() {
   return (
     <div className="App">
-      My test
+      <ModuleA ></ModuleA>
+      <ModuleB ></ModuleB>
     </div>
   );
 }

@@ -1,0 +1,6 @@
+[submodule "src/modules/ModuleA"]
+	path = src/modules/ModuleA
+	url = git@github.com:sctaisen/ModuleA.git
+[submodule "src/modules/ModuleB"]
+	path = src/modules/ModuleB
+	url = git@github.com:sctaisen/ModuleB.git
